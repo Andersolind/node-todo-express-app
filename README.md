@@ -5,7 +5,9 @@ How to run
 
 Lets setup the environment
 First go here — https://nodejs.org/en/download/ and Install NodeJS.
+
 Download and Install MongoDB — https://www.mongodb.com/download-center#community
+
 Download a good Text Editor or IDE. I Personally prefer Visual Studio Code — https://code.visualstudio.com/download
 Now the environment Setup is done. Let’s get into the command line.
 First we need to install ExpressJS. The most popular NodeJS Framework.

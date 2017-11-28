@@ -28,3 +28,5 @@ All the necessary packages will be installed.
 At first let’s install all the necessary packages we will be using throughout this app.
 
 npm install bluebird mongoose mongoose-paginate nodemon
+
+Npm Start
